@@ -8,7 +8,6 @@ Still curious and excited to learn new techniques or tools after a decade of pro
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Github](http://github.com/ManiacViper)
-* ✉️  You can contact me at [kenneth.d.monteiro@gmail.com](mailto:kenneth.d.monteiro@gmail.com)
 * 🚀  I'm currently working on [nostalgic recall (music app)](http://github.com/ManiacViper/nostalgic-recall)
 * 🧠  I'm learning db and cache cluster design based on ratio of read writes
 * 🤝  I'm open to collaborating on anything that will help my day to day life
