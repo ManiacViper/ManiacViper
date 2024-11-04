@@ -1,4 +1,4 @@
-Hi 👋 My name is KENNETH DEMETRIUS MONTEIRO
+Hi 👋 My name is KENNETH 
 ===========================================
 
 Engineer III / Senior Engineer
